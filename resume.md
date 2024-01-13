@@ -2,18 +2,19 @@
 
 lizethvl@uw.edu
 
+[LinkedIn](http://www.linkedin.com/in/lizethvl)
 
-http://www.linkedin.com/in/lizethvl
+## Summary
 
-# Summary
+> I qualify for the position because of my quick adaptability and amazing attitude when juggling many various tasks.
 
-I qualify for the position because of my quick adaptability and amazing attitude when juggling many various tasks.
+## Work Experience
 
-# Work Experience
-
-## Joe's Burgers (Kirkland, Washington)
+### [Joe's Burgers](https://www.joesburgers.com/) (Kirkland, Washington)
 
 * Casual burger spot serving a busy plaza
+
+![Joe's Burgers](joes_burgers.png)
 
 **Front of House Team Member** (April 2023 - Present)
 
