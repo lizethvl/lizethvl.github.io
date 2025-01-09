@@ -25,6 +25,8 @@ Sanrio hosts rankings each year to determine the popularity of their characters 
 
 From the rankings, it is clear that Pochacco has recently risen in popularity in these 10 years, especially starting in 2018 with the following years showing rankings in the top 10. Pochacco also placed in the top three in more recent years - 2020, 2021, and 2024.
 
+![Image of Pochacco with Blue Background](pochacco_blue.png)
+
 #### <span style="font-family:Arial Narrow, sans-serif">References</span>
 - [Official Sanrio Website](https://www.sanrio.com/collections/pochacco)
 - [Sanrio Fandom Wiki](https://sanrio.fandom.com/wiki/Pochacco)
