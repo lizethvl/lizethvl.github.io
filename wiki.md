@@ -15,13 +15,13 @@ Sanrio hosts rankings each year to determine the popularity of their characters 
 - 2015: 15th place
 - 2016: 11th place
 - 2017: 10th place
-- 2018: 6th place
+- **2018: 6th place**
 - 2019: 5th place
-- **2020: 3rd place**
-- **2021: 3rd place**
+- *2020: 3rd place*
+- *2021: 3rd place*
 - 2022: 4th place
 - 2023: 4th place
-- **2024: 2nd place**
+- *2024: 2nd place*
 
 From the rankings, it is clear that Pochacco has recently risen in popularity in these 10 years, especially starting in 2018 with the following years showing rankings in the top 10. Pochacco also placed in the top three in more recent years - 2020, 2021, and 2024.
 
